@@ -1,0 +1,278 @@
+{
+  "model": "openai/gpt-4o-mini",
+  "total": 30,
+  "correct": 29,
+  "accuracy": 0.967,
+  "results": [
+    {
+      "id": 1,
+      "title": "Stuning even for the non-gamer",
+      "predicted_sentiment": "positive",
+      "topic": "музыка",
+      "confidence": 0.95,
+      "true_label": "positive",
+      "correct": true
+    },
+    {
+      "id": 2,
+      "title": "Comfort and Ease",
+      "predicted_sentiment": "positive",
+      "topic": "mouse comfort",
+      "confidence": 0.95,
+      "true_label": "positive",
+      "correct": true
+    },
+    {
+      "id": 3,
+      "title": "easy to install, works perfectly",
+      "predicted_sentiment": "positive",
+      "topic": "installation experience",
+      "confidence": 0.9,
+      "true_label": "positive",
+      "correct": true
+    },
+    {
+      "id": 4,
+      "title": "Very funny--Just a few boo-boo's",
+      "predicted_sentiment": "positive",
+      "topic": "book review",
+      "confidence": 0.9,
+      "true_label": "positive",
+      "correct": true
+    },
+    {
+      "id": 5,
+      "title": "Acoustic Research speaker wire",
+      "predicted_sentiment": "positive",
+      "topic": "speaker wire",
+      "confidence": 0.95,
+      "true_label": "positive",
+      "correct": true
+    },
+    {
+      "id": 6,
+      "title": "Top 5",
+      "predicted_sentiment": "positive",
+      "topic": "music review",
+      "confidence": 0.95,
+      "true_label": "positive",
+      "correct": true
+    },
+    {
+      "id": 7,
+      "title": "Great, great, great!",
+      "predicted_sentiment": "positive",
+      "topic": "nursery monitor",
+      "confidence": 0.95,
+      "true_label": "positive",
+      "correct": true
+    },
+    {
+      "id": 8,
+      "title": "Great and humerous book.",
+      "predicted_sentiment": "positive",
+      "topic": "book review",
+      "confidence": 0.95,
+      "true_label": "positive",
+      "correct": true
+    },
+    {
+      "id": 9,
+      "title": "If you are hurting",
+      "predicted_sentiment": "positive",
+      "topic": "self-help",
+      "confidence": 0.95,
+      "true_label": "positive",
+      "correct": true
+    },
+    {
+      "id": 10,
+      "title": "If you like solo drumming this disk will impress you.",
+      "predicted_sentiment": "positive",
+      "topic": "solo drumming",
+      "confidence": 0.95,
+      "true_label": "positive",
+      "correct": true
+    },
+    {
+      "id": 11,
+      "title": "Great!",
+      "predicted_sentiment": "positive",
+      "topic": "шампунь",
+      "confidence": 0.95,
+      "true_label": "positive",
+      "correct": true
+    },
+    {
+      "id": 12,
+      "title": "Error In item Description",
+      "predicted_sentiment": "negative",
+      "topic": "item description error",
+      "confidence": 0.85,
+      "true_label": "positive",
+      "correct": false
+    },
+    {
+      "id": 13,
+      "title": "Oral B Replacement brushes",
+      "predicted_sentiment": "positive",
+      "topic": "toothbrush replacement",
+      "confidence": 0.9,
+      "true_label": "positive",
+      "correct": true
+    },
+    {
+      "id": 14,
+      "title": "Excellent Non-Fiction Book",
+      "predicted_sentiment": "positive",
+      "topic": "non-fiction book",
+      "confidence": 0.95,
+      "true_label": "positive",
+      "correct": true
+    },
+    {
+      "id": 15,
+      "title": "Fun, fun!",
+      "predicted_sentiment": "positive",
+      "topic": "toy experience",
+      "confidence": 0.9,
+      "true_label": "positive",
+      "correct": true
+    },
+    {
+      "id": 16,
+      "title": "Buyer beware",
+      "predicted_sentiment": "negative",
+      "topic": "book review",
+      "confidence": 0.95,
+      "true_label": "negative",
+      "correct": true
+    },
+    {
+      "id": 17,
+      "title": "Poor Pam Grier",
+      "predicted_sentiment": "negative",
+      "topic": "film review",
+      "confidence": 0.85,
+      "true_label": "negative",
+      "correct": true
+    },
+    {
+      "id": 18,
+      "title": "Junk Junk Junk!",
+      "predicted_sentiment": "negative",
+      "topic": "bed sheets",
+      "confidence": 0.9,
+      "true_label": "negative",
+      "correct": true
+    },
+    {
+      "id": 19,
+      "title": "Good idea, mediocre delivery",
+      "predicted_sentiment": "negative",
+      "topic": "delivery quality",
+      "confidence": 0.85,
+      "true_label": "negative",
+      "correct": true
+    },
+    {
+      "id": 20,
+      "title": "Very Confusing",
+      "predicted_sentiment": "negative",
+      "topic": "book review",
+      "confidence": 0.85,
+      "true_label": "negative",
+      "correct": true
+    },
+    {
+      "id": 21,
+      "title": "Flimsy",
+      "predicted_sentiment": "negative",
+      "topic": "product quality",
+      "confidence": 0.85,
+      "true_label": "negative",
+      "correct": true
+    },
+    {
+      "id": 22,
+      "title": "Not what I expected",
+      "predicted_sentiment": "negative",
+      "topic": "product expectation",
+      "confidence": 0.85,
+      "true_label": "negative",
+      "correct": true
+    },
+    {
+      "id": 23,
+      "title": "Madonna returns to her white-trash roots",
+      "predicted_sentiment": "negative",
+      "topic": "music review",
+      "confidence": 0.85,
+      "true_label": "negative",
+      "correct": true
+    },
+    {
+      "id": 24,
+      "title": "fast women",
+      "predicted_sentiment": "negative",
+      "topic": "disappointment",
+      "confidence": 0.85,
+      "true_label": "negative",
+      "correct": true
+    },
+    {
+      "id": 25,
+      "title": "Not a clear teaching guide",
+      "predicted_sentiment": "negative",
+      "topic": "teaching guide",
+      "confidence": 0.9,
+      "true_label": "negative",
+      "correct": true
+    },
+    {
+      "id": 26,
+      "title": "Not recommended except for grindcore fans",
+      "predicted_sentiment": "negative",
+      "topic": "music review",
+      "confidence": 0.9,
+      "true_label": "negative",
+      "correct": true
+    },
+    {
+      "id": 27,
+      "title": "Looks good, but",
+      "predicted_sentiment": "negative",
+      "topic": "product quality",
+      "confidence": 0.85,
+      "true_label": "negative",
+      "correct": true
+    },
+    {
+      "id": 28,
+      "title": "it is not a right fit.",
+      "predicted_sentiment": "negative",
+      "topic": "fit issues",
+      "confidence": 0.9,
+      "true_label": "negative",
+      "correct": true
+    },
+    {
+      "id": 29,
+      "title": "Not very good!",
+      "predicted_sentiment": "negative",
+      "topic": "book review",
+      "confidence": 0.85,
+      "true_label": "negative",
+      "correct": true
+    },
+    {
+      "id": 30,
+      "title": "unclear description",
+      "predicted_sentiment": "negative",
+      "topic": "product confusion",
+      "confidence": 0.9,
+      "true_label": "negative",
+      "correct": true
+    }
+  ]
+}
